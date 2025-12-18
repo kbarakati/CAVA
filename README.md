@@ -1,6 +1,6 @@
 # CAVA: Causal Analysis and Validation Agent for Microscopy-Informed Materials Discovery
 
-This repository implements a modular, agentic framework for **literature-grounded causal reasoning**, designed to bridge the gap between **data-driven causal discovery** and **established scientific knowledge**. By integrating Large Language Models (LLMs) with automated bibliographic retrieval, the system evaluates and validates directed causal relationships \(X \rightarrow Y\) through explicit evidence extracted from peer-reviewed scientific literature.
+This repository implements a modular, agentic framework for **literature-grounded causal reasoning**, designed to bridge the gap between **data-driven causal discovery** and **established scientific knowledge**. By integrating Large Language Models (LLMs) with automated bibliographic retrieval, the system evaluates and validates directed causal relationships \(X --> Y\) through explicit evidence extracted from peer-reviewed scientific literature.
 
 ---
 
