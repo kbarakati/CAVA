@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+env/
+
+# OS / editors
+.DS_Store
+.idea/
+.vscode/
+
+# Results / large artifacts (keep structure, ignore contents)
+results/**
+!results/.gitkeep
+!results/**/.gitkeep
+
+# Optional: ignore large generated report artifacts
+report/**/*.pdf
+report/**/*.png
+report/**/*.jpg
